@@ -1,2 +1,1 @@
-# Final-project
-HTML/CSS/JS
+# Вёрстка моего первого проекта (HouseVOP)
